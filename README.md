@@ -1,2 +1,0 @@
-# macha-web
-MACHA Website
